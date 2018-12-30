@@ -3,10 +3,12 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { WebsocketComponent } from './controller/websocket/websocket.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    WebsocketComponent
   ],
   imports: [
     BrowserModule,

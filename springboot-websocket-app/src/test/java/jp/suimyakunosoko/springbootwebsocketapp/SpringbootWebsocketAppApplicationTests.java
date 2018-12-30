@@ -1,4 +1,4 @@
-package jp.suimyakunosoko.example.springbootwebsocketapp;
+package jp.suimyakunosoko.springbootwebsocketapp;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
